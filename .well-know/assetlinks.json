@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bantulogic.core.journalapp",
+      "sha256_cert_fingerprints":
+      ["61:2F:DF:5A:EB:67:7A:E6:AD:F6:1B:6C:93:E3:78:69:89:8A:B3:98:AB:BC:15:4C:B9:1A:D1:24:40:0C:D8:FC"]
+    }
+  }]
